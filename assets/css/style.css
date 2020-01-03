@@ -93,7 +93,7 @@ header {
 
 aside {
     display: table-cell;
-    width: 33%;
+    width: 25%;
     vertical-align: top;
     background: #e9e9e9;
 }
@@ -147,7 +147,7 @@ aside #sidebarNav a:hover {
 
 section {
     display: table-cell;
-    width: 66%;
+    width: 75%;
     margin-bottom: 8px;
 }
 
